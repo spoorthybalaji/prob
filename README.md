@@ -168,9 +168,6 @@ Before starting shooting them, he wants to know how many persons he can kill. He
 busy keeping an eye on the enemies. So he wants you to find out the maximum
 number of people he can kill from that location by providing you with the analogous
 a binary search tree.
-[ Note: Players do not change their position after one player has died, i.e. the leftmost
-node remains the same even after player on that node has died. Or we can say that
-the nodes are not removed after the player on that node has died.]
 Input Format
 The first line of input contains a number t denoting the number of test cases.
 The first line of each test case contains n, the number of nodes in the tree.
